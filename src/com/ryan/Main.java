@@ -2,7 +2,7 @@ package com.ryan;
 
 public class Main {
     public static void main(String[] args) {
-        String myStr = "Hello planet earth, you are a great planet.";
-        System.out.println(myStr.indexOf("planet"));
+        String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        System.out.println(txt.length());
     }
 }
