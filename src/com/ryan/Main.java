@@ -2,7 +2,8 @@ package com.ryan;
 
 public class Main {
     public static void main(String[] args) {
-        String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        System.out.println(txt.length());
+        System.out.println(Math.abs(-4.7));
+        System.out.println(Math.abs(4.7));
+        System.out.println(Math.abs(3));
     }
 }
