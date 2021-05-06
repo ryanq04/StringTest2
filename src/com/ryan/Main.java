@@ -1,8 +1,8 @@
 package com.ryan;
 
 public class Main {
-
     public static void main(String[] args) {
-        System.out.println("Hello World!!!");
+        String myStr = "Hello planet earth, you are a great planet.";
+        System.out.println(myStr.indexOf("planet"));
     }
 }
